@@ -1,2 +1,2 @@
-# basiccalculator
-a simple Python The program asks the user to input two numbers and a mathematical operation (addition, subtraction, multiplication, or division).
+The program asks the user to input two numbers and a mathematical operation (addition, subtraction, multiplication, or division).Then it Performs the operation based on the user's input and print the result.
+Example: If a user inputs 10, 5, and +, your program should display 10 + 5 = 15.
